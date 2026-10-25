@@ -1,30 +1,17 @@
 /
 ├── README.md
-
 ├── src/
-
 │   ├── ej1_Paralel_Speedup.py
-
 │   ├── ej2_Greedy_knapsack.py
-
 │   ├── ej3_Busqueda_local.py
-
 │   ├── ej4_Ajuste_parametros.py
-
 │   └── ej5_Razonamiento_aproximacion.py
-
 ├── graphs/
-
 │   ├── ej1_ParaleL_Speedup.png
-
 │   ├── ej2_Knapsack.png
-
 │   ├── ej3_Busqueda_local.png
-
 │   ├── ej4_Ajuste_parametros.png
-
 │   └── ej5_razonamiento_aproximacion.png
-
 └── t2_AyO_Reporte.pdf
     
 
